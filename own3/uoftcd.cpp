@@ -26,6 +26,6 @@ int main()
 		{
 			printf("%d %d\n",moments[i].first,moments[i].second);
 		}
-		// printf("HELLO");
+		printf("HELLO");
 	}
 }
