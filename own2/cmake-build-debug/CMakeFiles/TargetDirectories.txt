@@ -1,0 +1,4 @@
+C:/Users/garya/Documents/ACTUALCOMP/own2/cmake-build-debug/CMakeFiles/own2.dir
+C:/Users/garya/Documents/ACTUALCOMP/own2/cmake-build-debug/CMakeFiles/testing2.dir
+C:/Users/garya/Documents/ACTUALCOMP/own2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garya/Documents/ACTUALCOMP/own2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

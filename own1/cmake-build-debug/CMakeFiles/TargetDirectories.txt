@@ -1,0 +1,3 @@
+C:/Users/garya/Documents/ACTUALCOMP/own1/cmake-build-debug/CMakeFiles/own1.dir
+C:/Users/garya/Documents/ACTUALCOMP/own1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garya/Documents/ACTUALCOMP/own1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
